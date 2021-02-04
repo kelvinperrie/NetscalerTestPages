@@ -4,14 +4,14 @@ Hi Carl, here's your test page
 
 Space Carl Waving:
 
-http://htmlpreview.github.io/?https://github.com/kelvinperrie/NetscalerTestPages/blob/master/test2-Waving.html
+https://netscaler.netlify.app/test2-waving
 
 
 Spaceman doing angels:
 
-http://htmlpreview.github.io/?https://github.com/kelvinperrie/NetscalerTestPages/blob/master/test3-SpaceAngel.html
+https://netscaler.netlify.app/test3-SpaceAngel.html
 
 
 Space Carl doing angels:
 
-http://htmlpreview.github.io/?https://github.com/kelvinperrie/NetscalerTestPages/blob/master/test4-SpaceAngelCarl.html
+https://netscaler.netlify.app/test4-SpaceAngelCarl.html
